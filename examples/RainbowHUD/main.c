@@ -5,7 +5,7 @@
 #include <unistd.h>
 #include <dlfcn.h>
 
-
+ 
 #define LOG_TAG "GTA RainbowHUD"
 
 #define ALOGV(...) __android_log_print(ANDROID_LOG_VERBOSE, LOG_TAG, __VA_ARGS__)
